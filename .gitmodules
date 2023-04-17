@@ -1,0 +1,12 @@
+[submodule "vendor/SQLiteCpp"]
+	path = vendor/SQLiteCpp
+	url = https://github.com/SRombauts/SQLiteCpp.git
+[submodule "vendor/mongoose"]
+	path = vendor/mongoose
+	url = https://github.com/cesanta/mongoose.git
+[submodule "vendor/libyuarel"]
+	path = vendor/libyuarel
+	url = https://github.com/jacketizer/libyuarel.git
+[submodule "vendor/json11"]
+	path = vendor/json11
+	url = https://github.com/dropbox/json11
